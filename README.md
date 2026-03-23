@@ -29,8 +29,8 @@ A locally-powered Q&A chatbot built with [Streamlit](https://streamlit.io/), [La
 ## 📋 Prerequisites
 
 - Python 3.9+
-- [Ollama](https://ollama.com/download) installed and running locally
-- A [LangSmith](https://smith.langchain.com/) account (free) for tracing
+- [Ollama](https://ollama.com/download) locally
+- A [LangSmith](https://smith.langchain.com/) for tracing
 
 ---
 
